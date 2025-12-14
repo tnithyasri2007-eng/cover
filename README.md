@@ -121,7 +121,6 @@ body
 {
     display:flex;
     background-color: blanchedalmond;
-    align-items: ;
     padding: 30px;
     border-radius: 20px;
     border: outset rebeccapurple;
@@ -150,18 +149,16 @@ body
     padding: 12px 20px;
     background-color: rgb(248, 9, 152);
     color:aquamarine;
-    border-radius: 0 0 8px 8px;
+    border-radius: 0 0 12px 12px;
     text-align: end;
     font-weight: 200;
     font-style: oblique;
-    
-    
 }
 
 ```
 
 ## OUTPUT:
-![alt text](<cover output.png>)
+![alt text](<cov out.png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
